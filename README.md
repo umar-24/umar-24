@@ -1,53 +1,59 @@
-<!--## Hi there 👋
+<div align="center">
 
-<!--
-**umar-24/umar-24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Muhammad Umar
 
-Here are some ideas to get you started:
+### Flutter & AI Mobile App Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building production-ready Android & iOS applications with Flutter, Firebase, and AI.
 
-<h1 align="center">Hi 👋, I'm Umar</h1>
-<h3 align="center">A passionate Mobile App Developer from Pakistan</h3>
+[LinkedIn](https://linkedin.com/in/umarflutter) • [Portfolio](#) • [Email](mailto:umarshyk99@gmail.com)
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌱 I’m currently learning **SwiftUI, Next.js, and Firebase Cloud Functions**
-
-- 💬 Ask me about **Flutter, Firebase, Dart, and SwiftUI**
-
-- 📫 How to reach me: **umarshyk99@gmail.com**
-
-- ⚡ Fun fact: **I think I am funny 😄**
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
+# About
 
-#### Mobile App Development  
-#### UI/UX Tools  
+I help startups and businesses build scalable Android & iOS applications using Flutter, Firebase, and AI technologies.
 
----
-
-### 📊 GitHub Stats
+My focus is on delivering production-ready mobile applications with clean architecture, exceptional user experience, and reliable backend systems.
 
 ---
 
-### 🔗 Connect with me
+# Expertise
+
+- Flutter Development
+- Firebase Integration
+- Google Gemini AI
+- REST API Integration
+- Clean Architecture
+- Android Development
+- iOS Development
+- Performance Optimization
+- Play Store Deployment
+- App Store Deployment
 
 ---
 
-### ☕ Support
+# Tech Stack
 
-If you like what I do, consider buying me a coffee:  
-[![BuyMeACoffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?logo=buymeacoffee&logoColor=black)](https://buymeacoffee.com/yourusername)
+Flutter • Dart • SwiftUI • Firebase • Google Gemini • REST APIs • SQLite • Hive • Git • GitHub
 
+---
 
+# Current Focus
+
+- AI Mobile Applications
+- Flutter Architecture
+- Firebase Cloud Functions
+- Cross-platform Development
+
+---
+
+# Contact
+
+📧 umarshyk99@gmail.com
+
+📍 Faisalabad, Pakistan
+
+LinkedIn
